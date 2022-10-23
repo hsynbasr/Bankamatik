@@ -1,0 +1,8 @@
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.AssemblyReference.cache
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.SuggestedBindingRedirects.cache
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\HB\source\repos\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb
